@@ -1,0 +1,10 @@
+# ignoring class files
+*.class
+.classpath
+# ignoring bin
+bin/
+.project/
+.settings/
+./
+../
+
